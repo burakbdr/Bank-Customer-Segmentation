@@ -164,5 +164,3 @@ data
 
 # Include CSV files
 !*.csv
-
-*.png
